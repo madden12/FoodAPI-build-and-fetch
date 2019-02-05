@@ -1,0 +1,17 @@
+.foodList   {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    
+}
+section {
+    width: 1000px;
+     
+
+}
+div {
+    border: 1px solid red;
+    padding: 10px;
+    margin: 20px;
+    
+}
